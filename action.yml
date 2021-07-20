@@ -1,0 +1,6 @@
+# action.yml
+name: 'ML4AI Docker Action'
+description: 'Provide dependencies for ML4AI projects'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
